@@ -1,0 +1,50 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   _framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll
+#	new file:   _framework/_bin/Microsoft.AspNetCore.Blazor.dll
+#	new file:   _framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+#	new file:   _framework/_bin/Microsoft.AspNetCore.Components.dll
+#	new file:   _framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+#	new file:   _framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+#	new file:   _framework/_bin/Microsoft.Extensions.Configuration.dll
+#	new file:   _framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+#	new file:   _framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+#	new file:   _framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+#	new file:   _framework/_bin/Microsoft.Extensions.Primitives.dll
+#	new file:   _framework/_bin/Microsoft.JSInterop.dll
+#	new file:   _framework/_bin/Mono.Security.dll
+#	new file:   _framework/_bin/Mono.WebAssembly.Interop.dll
+#	new file:   _framework/_bin/Newtonsoft.Json.dll
+#	new file:   _framework/_bin/SSManager.dll
+#	new file:   _framework/_bin/System.Core.dll
+#	new file:   _framework/_bin/System.Data.dll
+#	new file:   _framework/_bin/System.Net.Http.dll
+#	new file:   _framework/_bin/System.Numerics.dll
+#	new file:   _framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+#	new file:   _framework/_bin/System.Runtime.Serialization.dll
+#	new file:   _framework/_bin/System.Text.Encodings.Web.dll
+#	new file:   _framework/_bin/System.Text.Json.dll
+#	new file:   _framework/_bin/System.Xml.Linq.dll
+#	new file:   _framework/_bin/System.Xml.dll
+#	new file:   _framework/_bin/System.dll
+#	new file:   _framework/_bin/WebAssembly.Bindings.dll
+#	new file:   _framework/_bin/WebAssembly.Net.Http.dll
+#	new file:   _framework/_bin/mscorlib.dll
+#
+# Untracked files:
+#	_framework/blazor.boot.json
+#	_framework/blazor.webassembly.js
+#	_framework/wasm/
+#	css/
+#	data/
+#	index.html
+#
+
+first commit
