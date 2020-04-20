@@ -24,6 +24,10 @@
     "character": "CaptainFalcon"
   },
   {
+    "tag": "License",
+    "character": "Yoshi"
+  },
+  {
     "tag": "Silver",
     "character": "Fox"
   },
@@ -90,5 +94,21 @@
   {
     "tag": "Robot Waifu",
     "character": "Samus"
+  },
+  {
+    "tag": "Ben's Sheik",
+    "character": "Sheik"
+  },
+  {
+    "tag": "Ben's Marth",
+    "character": "Marth"
+  },
+  {
+    "tag": "Ben's Young Link",
+    "character": "YoungLink"
+  },
+  {
+    "tag": "Ben's Falco",
+    "character": "Falco"
   }
 ]
